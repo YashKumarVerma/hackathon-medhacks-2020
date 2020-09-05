@@ -2,9 +2,11 @@
 
 # Building a web framework from scratch
 
-## What we do in this part
+## Connect
 
-- Run it :fire:
+- Github : [yashkumarverma](https://github.com/yashkumarverma/)
+- LinkedIn: [yash-kumar-verma](https://www.linkedin.com/in/yash-kumar-verma/)
+- Twitter : [yash_kr_verma](https://twitter.com/yash_kr_verma)
 
 ## Done till now
 
@@ -13,3 +15,4 @@
 - Interfaces written for each entity
 - Module to send responses
 - Bootstrap all content into one entity
+- Run it :fire:
