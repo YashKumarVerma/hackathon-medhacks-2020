@@ -4,7 +4,7 @@
 
 ## What we do in this part
 
-- Bootstrap all content into one entity
+- Run it :fire:
 
 ## Done till now
 
@@ -12,3 +12,4 @@
 - Code Structure setup
 - Interfaces written for each entity
 - Module to send responses
+- Bootstrap all content into one entity
